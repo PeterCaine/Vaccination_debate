@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Module-attribution_extraction/text_source_category_per_doc.docx

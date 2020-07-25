@@ -1,0 +1,48 @@
+absolve 1 accept 10 acclaim 1 account 1 accuse 50 acknowledge 46 add 372 address 3 admit 44 advise
+23 advocate 2 affirm 2 agree 233 aim 2 allege 41 allow 28 allude 2 announce 186 answer 4 anticipate
+21 appeal 2 applaud 3 appreciate 3 approach 2 approve 27 argue 121 ask 127 aspire 2 assail 2 assert 28
+assess 1 assume 32 assure 6 attack 1 attempt 3 attest 3 attribute 46 authorize 8 avoid 1 await 3 back 2 ban
+2 bar 2 battle 1 beam 1 become 1 beg 1 begin 1 believe 267 bemoan 1 bet 10 bid 1 bill 1 blame 21 block 3
+boast 5 brag 2 brim 1 burble 1 buttress 1 buy 1 calculate 3 call 122 capture 1 care 1 caricature 1 castigate
+1 caution 24 celebrate 2 challenge 3 characterize 4 charge 41 chastise 2 chide 1 choose 2 chuckle 1 cite
+95 claim 84 clarify 2 clear 2 comment 26 commission 1 commit 2 communicate 1 compare 3 complain
+55 comply 3 concede 45 concentrate 1 concern 20 conclude 39 concur 1 condemn 3 confess 6 confide
+2 confirm 34 consent 10 consider 131 conspire 1 construe 1 contain 1 contemplate 2 contend 79 contest
+1 continue 9 contribute 17 convey 1 convict 9 convince 18 couch 1 counsel 1 count 1 counter 4 credit 4
+criticize 14 croon 1 crow 1 cry 1 dare 1 decide 66 declare 58 decline 48 decry 3 deem 4 defend 8 define
+8 deflect 1 delight 1 deliver 1 demand 24 demonstrate 1 demur 1 denounce 3 deny 51 depict 1 deride
+2 describe 34 desire 1 detail 1 detect 1 determine 12 develop 1 diagnose 1 dictate 3 direct 1 disagree 4
+disappoint 3 disapprove 1 discern 2 discipline 1 disclaim 1 disclose 50 discourage 3 discover 14 discuss
+20 disincline 1 dislike 1 dismiss 5 dispute 2 disturb 1 divide 6 doubt 16 downgrade 1 downplay 1 draw
+1 dream 1 dub 3 echo 2 elaborate 2 embrace 1 emerge 1 emphasize 15 empower 2 enable 1 encourage
+12 endorse 2 ensure 2 entice 3 envisage 1 envision 1 equate 3 erupt 1 establish 1 estimate 130 evaluate 1
+evince 1 examine 1 exclaim 2 exclude 1 exhort 1 exonerate 1 expect 671 explain 47 explore 2 expound
+1 express 17 fantasize 1 fault 1 favor 15 fear 36 feel 35 felt 8 feud 1 figure 32 file 6 find 93 flay 1 flirt 1
+focus 1 forbid 4 force 7 forecast 16 foresee 6 forget 6 fret 2 frighten 1 fume 1 gauge 1 get 2 give 7 gloat
+1 go 2 grant 1 grip 1 grouse 1 growl 1 grumble 1 guarantee 7 guess 5 gush 1 hail 5 harp 1 hear 3
+herald 1 highlight 2 hint 11 hold 11 hope 136 identify 5 ignore 5 illustrate 7 imagine 3 implore 2 imply
+9 impose 4 impress 1 incline 1 include 5 incorporate 1 indicate 76 indict 4 induce 1 influence 1 inform 8
+inquire 1 insinuate 1 insist 66 instruct 4 intend 51 interest 4 interject 1 interpret 6 introduce 2 investigate
+1 invite 7 involve 2 irk 1 joke 3 jump 1 justify 3 know 128 label 2 lambast 1 lament 3 laud 3 laugh 2 lay
+1 learn 13 lecture 1 license 1 like 22 limit 1 link 1 list 6 lobby 1 love 1 mail 1 maintain 1 make
+8 mandate 1 marvel 1 mean 9 measure 1 mention 10 mind 1 misstate 1 moan 1 mount 1 muse 1 name 6
+need 2 negotiate 2 nickname 2 nod 1 nominate 1 note 241 notice 4 notify 3 object 2 obligate 1 observe
+19 offer 40 oppose 24 opt 1 order 32 outline 5 paint 2 pass 1 pay 1 peg 1 perceive 2 permit 5 persuade 15
+pinpoint 2 place 1 plead 17 please 1 pledge 8 point 8 poise 1 ponder 3 portray 8 post 76 praise
+9 preach 1 predict 101 prefer 11 preoccupy 1 prepare 3 prescribe 2 present 4 press 6 pressure 1 presume
+1 pretend 1 prevent 4 prim 1 proclaim 3 produce 1 profess 3 proffer 1 prohibit 13 project 18 promise
+34 promote 3 prompt 1 pronounce 2 propose 57 protest 1 prove 3 provide 12 publish 2 purport 1 purr 2
+push 5 put 15 quash 1 question 23 quip 6 quote 9 raise 2 rat 2 rave 1 re-emphasize 1 read 8 reaffirm 4
+realize 18 reason 6 reassert 1 reassure 2 rebuff 2 recall 44 reckon 6 recognize 14 recommend 30 record
+2 recount 4 refer 9 reflect 1 refuse 31 regard 8 regret 2 reignite 1 reiterate 11 reject 13 relate 1 release 2
+relieve 1 rely 3 remark 7 remember 4 remind 7 rename 1 renew 1 renounce 1 repeat 3 reply 15 report 313
+repute 1 request 14 require 54 resent 2 resist 1 resolve 1 respect 1 respond 16 restate 2 restrain 1 rethink
+2 reveal 12 review 1 romance 1 rule 33 ruminate 1 rumor 7 salute 1 satisfy 3 saw 11 say 9017 schedule 1
+score 1 scream 1 seek 32 seem 10 send 1 sense 2 sentence 3 set 4 share 1 shout 3 show 79 shrug
+1 sigh 1 sign 1 signal 13 sing 4 snap 2 sniff 4 snort 2 solicit 3 speak 4 specify 12 speculate 24 spell 1
+sponsor 1 stagewhispers 1 stand 2 state 19 stipulate 3 stress 20 strive 1 study 4 sue 4 suggest 91 support
+14 suppose 14 surprise 2 survey 2 suspect 19 swear 1 take 1 talk 15 teach 1 tear 1 teem 1 tell 191 term 4
+terrify 1 testify 7 theorize 2 think 333 threaten 14 tout 3 trouble 1 trumpet 1 try 7 turn 1 underestimate 1
+underscore 2 understand 19 understate 2 unleash 1 unveil 14 uphold 2 urge 45 value 16 verify 1 view 30
+26 voice 4 volunteer 2 vote 2 vow 18 wad 1 wait 4 want 253 warn 56 welcome 2 whisper 1 wish 9 witness
+1 wonder 20 worry 37 wrestle 1 write 38 yell 1
